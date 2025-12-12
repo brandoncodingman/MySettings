@@ -1,0 +1,27 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.experimental.asyncTokenization": false,
+    "editor.formatOnSave": false,
+    "workbench.colorTheme": "5ca2846d-31a9-40b3-8908-965dad3c127d",
+    "workbench.secondarySideBar.defaultVisibility": "visible",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    // Enable zoom with Ctrl + Mouse Wheel
+    "editor.mouseWheelZoom": true,
+    // Enable Emmet for expanding HTML abbreviations
+    "emmet.triggerExpansionOnTab": true,
+    // Allow Emmet expansion with Ctrl + 2 (alternative to Tab)
+    "emmet.triggerExpansionOnCtrl2": true,
+    "files.associations": {
+        "*.tpl": "html"
+    },
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "claudeCode.preferredLocation": "panel",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "powermode.enabled": true,
+    "powermode.combo.counterSize": 2,
+    "powermode.combo.location": "statusbar",
+    "powermode.explosions.offset": 0.25,
+    "powermode.explosions.size": 5,
+    "powermode.shake.enabled": false
+}
